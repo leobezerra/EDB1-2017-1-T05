@@ -3,7 +3,7 @@
 
 ---
 
-## Projetoso
+## Projetos práticos
 
 Abaixo, as descrições dos projetos de análise experimental da disciplina.
 
