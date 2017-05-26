@@ -20,14 +20,12 @@ São fornecidos três (subconjuntos de entradas)[], diferindo quanto ao grau de 
 
 Cada subconjunto apresenta vetores de diferentes tamanhos gerados aleatoriamente utilizando diferentes sementes. Assim, será possível analisar os efeitos do tamanho e do tipo do subconjunto, tendo em mãos uma amostragem de tamanho razoável para propósitos estatísticos.
 
-Especificamente, para cada subconjunto de entrada, execute todos os algoritmos e calcule o tempo médio que cada algoritmo gasta para cada tamanho presente no subconjunto.
+Especificamente, para cada subconjunto de entrada, execute todos os algoritmos e calcule o tempo médio que cada algoritmo gasta para cada tamanho presente no subconjunto. Assim, você poderá efetuar os seguintes tipos de análise:
 
-## Orientações e pontuações
-
-A pontuação deste trabalho será dividida da seguinte forma:
- 
 * Análise do tempo de execução de cada algoritmo por estrutura de dados.
 * Análise comparativa entre os dois conjuntos de implementações e a implementação padrão de ordenação fornecida pela linguagem escolhida (C ou C++).
+
+## Orientações
 
 A análise deverá ser fornecida como um relatório. Torne-o conciso, porém interessante. Os seguintes tipos de análise são sugeridos:
 
