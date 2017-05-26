@@ -14,9 +14,9 @@ diferentes estruturas de dados.
 
 São fornecidos três (subconjuntos de entradas)[], diferindo quanto ao grau de ordenação das mesmas:
 
-* Subconjunto 1: vetores 10% ordenados (90% de entropia).
-* Subconjunto 2: vetores 50% ordenados (50% de entropia).
-* Subconjunto 3: vetores 90% ordenados (10% de entropia).
+* *Subconjunto 1*: vetores 10% ordenados (90% de entropia).
+* *Subconjunto 2*: vetores 50% ordenados (50% de entropia).
+* *Subconjunto 3*: vetores 90% ordenados (10% de entropia).
 
 Cada subconjunto apresenta vetores de diferentes tamanhos gerados aleatoriamente utilizando diferentes sementes. Assim, será possível analisar os efeitos do tamanho e do tipo do subconjunto, tendo em mãos uma amostragem de tamanho razoável para propósitos estatísticos.
 
@@ -36,6 +36,6 @@ A análise deverá ser fornecida como um relatório. Torne-o conciso, porém int
 ## Prazos
 
 Uma vez que este exercício exigirá um maior esforço computacional, seu prazo será maior do que o dos demais.
-* Deadline #1 (pontuação integral): Terça, 13/06/2017</li>
-* Deadline #2 (pontuação parcial): Domingo, 20/06/2017</li>
+* *Deadline #1* (pontuação **integral**): Terça, 13/06/2017
+* *Deadline #2* (pontuação **parcial**): Domingo, 20/06/2017
 
