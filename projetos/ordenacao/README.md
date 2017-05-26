@@ -14,9 +14,9 @@ diferentes estruturas de dados.
 
 São fornecidos três (subconjuntos de entradas)[], diferindo quanto ao grau de ordenação das mesmas:
 
-* *Subconjunto 1*: vetores 10% ordenados (90% de entropia).
-* *Subconjunto 2*: vetores 50% ordenados (50% de entropia).
-* *Subconjunto 3*: vetores 90% ordenados (10% de entropia).
+* *Subconjunto 1*: listas 10% ordenadas (**90% de entropia**).
+* *Subconjunto 2*: listas 50% ordenadas (**50% de entropia**).
+* *Subconjunto 3*: listas 90% ordenadas (**10% de entropia**).
 
 Cada subconjunto apresenta vetores de diferentes tamanhos gerados aleatoriamente utilizando diferentes sementes. Assim, será possível analisar os efeitos do tamanho e do tipo do subconjunto, tendo em mãos uma amostragem de tamanho razoável para propósitos estatísticos.
 
