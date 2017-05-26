@@ -20,9 +20,9 @@ São fornecidos três (subconjuntos de entradas)[], diferindo quanto ao grau de 
 
 Cada subconjunto apresenta vetores de diferentes tamanhos gerados aleatoriamente utilizando diferentes sementes. Assim, será possível analisar os efeitos do tamanho e do tipo do subconjunto, tendo em mãos uma amostragem de tamanho razoável para propósitos estatísticos.
 
-## Orientações e pontuações
+Especificamente, para cada subconjunto de entrada, execute todos os algoritmos e calcule o tempo médio que cada algoritmo gasta para cada tamanho presente no subconjunto.
 
-Para cada subconjunto de entrada, execute todos os algoritmos e calcule o tempo médio que cada algoritmo gasta para cada tamanho presente no subconjunto.
+## Orientações e pontuações
 
 A pontuação deste trabalho será dividida da seguinte forma:
  
