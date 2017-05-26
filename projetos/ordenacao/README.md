@@ -12,7 +12,7 @@ diferentes estruturas de dados.
 
 ## Design do experimento
 
-São fornecidos três (subconjuntos de entradas)[], diferindo quanto ao grau de ordenação das mesmas:
+São fornecidos três (subconjuntos de entradas)[instancias.tar.gz], diferindo quanto ao grau de ordenação das mesmas:
 
 * *Subconjunto 1*: listas 10% ordenadas (**90% de entropia**).
 * *Subconjunto 2*: listas 50% ordenadas (**50% de entropia**).
