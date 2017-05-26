@@ -10,8 +10,8 @@ Abaixo, os materiais de consulta para cada tópico de aula.
 1. **Aulas 04 a 05 - Revisão (algoritmos iterativos)**
   * [Roteiro](laboratorio/workstation/roteiro.pdf)
 2. **Aulas 06 a 08 - Complexidade de algoritmos**
-  * [Roteiro (Aula 06)](laboratorio/complexidade-teorica/roteiro.pdf)
-  * [Roteiro (Aula 07)](laboratorio/analise-empirica/roteiro.pdf)
+  * [Roteiro (Complexidade teórica)](laboratorio/complexidade-teorica/roteiro.pdf)
+  * [Roteiro (Análise empírica)](laboratorio/analise-empirica/roteiro.pdf)
 3. **Aulas 09 a 11 - Revisão (algoritmos recursivos)**
   * [Roteiro](laboratorio/recursividade/roteiro.pdf)
 4. **Aulas 12 e 13 - Ordenação por comparação (algoritmos iterativos)**
