@@ -1,13 +1,13 @@
 ## Análise empírica - Ordenação
 
 Ao longo desta disciplina, vocês implementaram os algoritmos de ordenação por comparação e estruturas de dados mais tradicionais:
-* **Ordenação por comparação**: selection, insertion, merge e quick sort
+* **Ordenação por comparação**: *selection, insertion, merge* e *quick sort*
 * **Estruturas de dados**: vetores e listas duplamente encadeadas
 
-Em sala, analisamos a complexidade teórica dos algoritmos de ordenação aplicados a TADs Lista implementados com vetores. Além disso,
-analisamos a complexidade teórica das principais operações fornecidas pelo TAD Lista quando implementado com vetores ou listas encadeadas.
+Em sala, analisamos a complexidade teórica dos algoritmos de ordenação aplicados a **TADs Lista** implementados com vetores. Além disso,
+analisamos a complexidade teórica das principais operações fornecidas pelo **TAD Lista** quando implementado com vetores ou listas encadeadas.
 
-Neste exercício puramente experimental, você verá a performance dos algoritmos de ordenação quando aplicados a TADs Lista implementados com
+Neste exercício puramente experimental, você verá a performance dos algoritmos de ordenação quando aplicados a **TADs Lista** implementados com
 diferentes estruturas de dados.
 
 ## Design do experimento
