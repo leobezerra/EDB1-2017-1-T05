@@ -3,6 +3,10 @@
 
 ---
 
+Confira a descrição dos [projetos de análise](projetos/).
+
+---
+
 Abaixo, os materiais de consulta para cada tópico de aula.
 
 ---
