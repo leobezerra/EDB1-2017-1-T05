@@ -1,7 +1,7 @@
 ## Análise empírica - Elementos distintos
 
 Ao longo desta disciplina, vocês estudaram e implementaram diferentes tipos abstratos de dados (TADs) e as estruturas de dados mais tradicionalmente usadas para suas implementações: 
-* **TADs**: conjunto, dicionário, sequência, lista, deque, pilha e fila
+* **TADs**: conjunto, dicionário, sequência, lista, deque, pilha e fila.
 * **Estruturas de dados**: vetores (lineares e circulares), listas (simples e duplamente) encadeadas e tabelas de dispersão (com encadeamento ou endereçamento aberto).
 
 Em sala, analisamos a complexidade teórica das operações fornecidas pelos diferentes TADs quando implementados com estruturas de dados específicas. Além disso, vimos que a complexidade esperada para operações de TADs não-relacionais implementados com tabelas de dispersão deveria ser melhor, na prática, que se implementados com vetores. 
