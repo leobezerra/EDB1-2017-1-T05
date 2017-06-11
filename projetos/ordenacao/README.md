@@ -18,7 +18,7 @@ São fornecidos três [subconjuntos de entradas](instancias.tar.gz), diferindo q
 * *Subconjunto 2*: listas 50% ordenadas (**50% de entropia**).
 * *Subconjunto 3*: listas 90% ordenadas (**10% de entropia**).
 
-Cada subconjunto apresenta vetores de diferentes tamanhos gerados aleatoriamente utilizando diferentes sementes. Assim, será possível analisar os efeitos do tamanho e do tipo do subconjunto, tendo em mãos uma amostragem de tamanho razoável para propósitos estatísticos.
+Cada subconjunto apresenta listas de diferentes tamanhos gerados aleatoriamente utilizando diferentes sementes. Assim, será possível analisar os efeitos do tamanho e do tipo do subconjunto, tendo em mãos uma amostragem de tamanho razoável para propósitos estatísticos.
 
 Especificamente, para cada subconjunto de entrada, execute todos os algoritmos e calcule o tempo médio que cada algoritmo gasta para cada tamanho presente no subconjunto. Assim, você poderá efetuar os seguintes tipos de análise:
 
