@@ -17,7 +17,7 @@ São fornecidos conjuntos contendo elementos em duplicidade. Você deverá filtr
 1. Criar um **TAD Conjunto** a partir dos dados de entrada, usando como estrutura de dados uma tabela de dispersão com **endereçamento aberto**.
 3. Criar um **TAD Lista** a partir dos dados de entrada, usando como estrutura de dados um vetor. Uma vez criada a lista, você deverá ordená-la (gerando um **TAD Sequência**) e fazer uma cópia desta lista onde não haja duplicação de elementos. Note que o **TAD Sequência** também deverá ser implementado com vetor.
 
-O objetivo desta análise é identificar o impacto de performance do uso de estruturas que se baseiam em listas, em comparação com estruturas que se baseiam em vetores. Note que, pela análise assintótica, é de se esperar que a opção 1 seja a mais rápida de todas, enquanto a opção 3 se apresenta como a potencialmente mais devagar.
+O objetivo desta análise é identificar o impacto de performance do uso de TADs cuja implementação dependem direta ou indiretamente de listas encadeadas, em comparação com TADs cujas implementações se baseiam em vetores. Note que, pela análise assintótica, é de se esperar que a opção 1 seja a mais rápida de todas, enquanto a opção 3 se apresenta como a potencialmente mais devagar.
 
 ## Design do experimento
 
