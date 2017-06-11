@@ -13,8 +13,8 @@ Neste exercício puramente experimental, você verificará se esta previsão te�
 São fornecidos conjuntos contendo elementos em duplicidade. Você deverá filtrar estes conjuntos para que obedeçam à propriedade de não haver repetição entre elementos de um conjunto. Para isto, você deverá considerar três estratégias:
 
 1. Criar um **TAD Conjunto** a partir dos dados de entrada, testando como estrutura de dados uma tabela de dispersão usando diferentes estratégias de resolução de conflitos:
-  2. Encadeamento simples.
-  2. Endereçamento aberto.
+    1. Encadeamento simples.
+    1. Endereçamento aberto.
 1. Criar um **TAD Lista** a partir dos dados de entrada, usando como estrutura de dados um vetor. Uma vez criada a lista, você deverá ordená-la (gerando um **TAD Sequência**) e fazer uma cópia desta lista onde não haja duplicação de elementos. Note que o **TAD Sequência** também deverá ser implementado com vetor.
 
 O objetivo desta análise é identificar o impacto de performance do uso de estruturas que se baseiam em listas, em comparação com estruturas que se baseiam em vetores. Note que, pela análise assintótica, é de se esperar que a opção 1 seja a mais rápida de todas, enquanto a opção 3 se apresenta como a potencialmente mais devagar.
