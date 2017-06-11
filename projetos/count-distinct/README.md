@@ -1,6 +1,6 @@
 ## Análise empírica - Elementos distintos
 
-Ao longo desta disciplina, vocês estudaram e implementaram diferentes tipos abstratos de dados (TADs) e as estruturas de dados mais tradicionalmente usadas para sua implementação: 
+Ao longo desta disciplina, vocês estudaram e implementaram diferentes tipos abstratos de dados (TADs) e as estruturas de dados mais tradicionalmente usadas para suas implementações: 
 * **TADs**: conjunto, dicionário, sequência, lista, deque, pilha e fila
 * **Estruturas de dados**: vetores, listas duplamente encadeadas e tabelas de dispersão com encadeamento ou endereçamento aberto.
 
